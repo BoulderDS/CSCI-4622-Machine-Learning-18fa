@@ -1,6 +1,7 @@
 # CSCI-4622-Machine-Learning-18fa
 
-Course Description
+### Course Description
+
 Machine learning is concerned with the question of how to construct computer programs that learn from experience. 
 Machine learning systems have been developed and used in a wide range of settings, ranging from spam detection, to medical diagonosis, 
 to recommendation systems that adapts to and even defines our preferences, to autonomous vehicles that learn to drive. 
