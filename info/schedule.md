@@ -9,7 +9,7 @@
 
 | Week   | Date         | Reading      |                   Topic               	   | Slides      | Homework   | 
 |:------:|:------------:| :-----------:| :----------------------------------------:|:-----------:|:----------:|
-| 1 | 8.27 |  | [Machine Learning Intro.](https://chenhaot.com/courses/csci4622/slides/lec1.pdf)  | | |
+| 1 | 8.27 |  | Machine Learning Intro.  | [slides](https://chenhaot.com/courses/csci4622/slides/lec1.pdf) | |
 | | 8.29 | Chapter 1 | Decision Trees Part 1 | | |
 | | 8.31 | | Decisions Trees Part 2 | | |
 | 2 | 9.3 |  | Labor day | | |
