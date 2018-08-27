@@ -9,7 +9,8 @@ Office hours: 4:00-5:00pm Monday and Friday, or by appointment (ECES 118A)
 
 Grader: Kumar Bhargav Srinivasan [\[contact\]](mailto:kumar.srinivasan@colorado.edu)
 
-Course assistant: Maxwell Lambek [\[contact\]](mailto:maxwell.lambek@colorado.edu)   
+Course assistant: Maxwell Lambek [\[contact\]](mailto:maxwell.lambek@colorado.edu)  
+Office hours: 11am-12pm Wednesday, Thursday, and Friday. 
 
 
 ### Logistics
