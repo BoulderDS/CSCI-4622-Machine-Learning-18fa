@@ -4,7 +4,7 @@
 
 - This schedule is a rough approximation and subject to change.
 - Reading assignments are from [A Course in Machine Learning](http://ciml.info/), by [Hal Daumé III](http://hal3.name/).
-- Homework is due on Moodle by 11:59pm on Friday the week **after** the assignment is listed.
+- Homework is due on Moodle by 11:59pm on Friday.
 
 
 | Week   | Date         | Reading      |                   Topic               	   | Slides      | Homework   | 
