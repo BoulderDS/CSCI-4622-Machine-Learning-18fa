@@ -13,7 +13,7 @@
 | | 8.29 | Chapter 1 | Decision Trees Part 1 |[slides](https://chenhaot.com/courses/csci4622/slides/lec2.pdf) | |
 | | 8.31 | | Decisions Trees Part 2 | [slides](https://chenhaot.com/courses/csci4622/slides/lec3.pdf) | |
 | 2 | 9.3 |  | Labor day | | |
-| | 9.5 | Chapter 2 | Limits of Learning/Bias-Variance Trade-off | | |
+| | 9.5 | Chapter 2 | Limits of Learning/Bias-Variance Trade-off | [slides](https://chenhaot.com/courses/csci4622/slides/lec4.pdf) | |
 | | 9.7 |  Chapter 3 | K-Nearest Neighbors | | |
 | 3 | 9.10 | Chapter 4 |Perceptron  | | |
 | | 9.12 |  | Hands on decision KNN and perceptron | |  |
