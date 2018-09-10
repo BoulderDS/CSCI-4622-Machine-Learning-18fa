@@ -15,7 +15,7 @@
 | 2 | 9.3 |  | Labor day | | |
 | | 9.5 | Chapter 2 | Limits of Learning/Bias-Variance Trade-off | [slides](https://chenhaot.com/courses/csci4622/slides/lec4.pdf) | |
 | | 9.7 |  Chapter 3 | K-Nearest Neighbors | [slides](https://chenhaot.com/courses/csci4622/slides/lec5.pdf) | |
-| 3 | 9.10 | Chapter 4 |Perceptron  | | |
+| 3 | 9.10 | Chapter 4 | Perceptron  | [slides](https://chenhaot.com/courses/csci4622/slides/lec6.pdf) | |
 | | 9.12 |  | Hands on decision KNN and perceptron | |  |
 | | 9.14 | Chapter 5 | Feature Engineering | | HW1 due |
 | 4 | 9.17 | Chapter 6  | Multiclass Classification | | |
