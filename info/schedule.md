@@ -17,16 +17,16 @@
 | | 9.7 |  Chapter 3 | K-Nearest Neighbors | [slides](https://chenhaot.com/courses/csci4622/slides/lec5.pdf) | |
 | 3 | 9.10 | Chapter 4 | Perceptron  | [slides](https://chenhaot.com/courses/csci4622/slides/lec6.pdf) | |
 | | 9.12 |  | Hands on decision KNN and perceptron | [notebook](https://github.com/BoulderDS/CSCI-4622-Machine-Learning-18fa/tree/master/notebooks) |  |
-| | 9.14 | Chapter 5 | Feature Engineering | | HW1 due |
-| 4 | 9.17 | Chapter 6  | Multiclass Classification | | |
-| | 9.19 | | Validation  | | |
-| | 9.21 | | Evaluation Metrics  | | |
+| | 9.14 | Chapter 5 | Feature Engineering |  [slides](https://chenhaot.com/courses/csci4622/slides/lec7.pdf) | HW1 due |
+| 4 | 9.17 | Chapter 5 | Validation | | |
+| | 9.19 | Chapter 5 | Evaluation metrics  | | |
+| | 9.21 |  Chapter 6 |Multiclass classification | | |
 | 5 | 9.24 | Chapter 7 | Logistic regression | | |
 | | 9.26 | | Stochastic gradient part 1 | |
-| | 9.28 | | Stochastic gradient part 2 | |  |
+| | 9.28 | | Stochastic gradient part 2 | | HW2 due |
 | 6 | 10.1 | |   Hands on validation and SGD | | |
 | | 10.3 | Chapter 10 | Neural Nets and MLP | | |
-| | 10.5 | | Feedforward NNs	 | | HW2 due |
+| | 10.5 | | Feedforward NNs	 | |  |
 | 7 | 10.8 | | Prelim 1 (week 1, 2, 3, 4) | | |
 | | 10.10 | | Back Propagation Part 1 | | |
 | | 10.12 | | Back Propagation Part 2 | | Final project team formation due|
@@ -39,9 +39,9 @@
 | 10 | 10.29 | Chapter 12 | Bagging and Random Forests   | | |
 | | 10.31 | | Boosted Decision Trees	| | |
 | | 11.2 | | Hands-On AdaBoost | | HW4 due |
-| 11 | 11.5 | | Prelim 2 (Week 5, 6, 7, 8)  | | |
-| | 11.7 | Chapter 15 |  Unsupervised learning | | |
-| | 11.9 | | Dimensionality reduction, PCA/SVD | |  |
+| 11 | 11.5 | Chapter 15| Unsupervised learning | | |
+| | 11.7 |  |  Dimensionality reduction, PCA/SVD  | | |
+| | 11.9 | | Prelim 2 (Week 5, 6, 7, 8)  | |  |
 | 12 | 11.12 | |  Clustering | | |
 | | 11.14 | Chapter 16 | Expectation-minimization algorithms | | |
 | | 11.16 | | Topic models | | HW5 due |
