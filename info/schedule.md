@@ -18,7 +18,7 @@
 | 3 | 9.10 | Chapter 4 | Perceptron  | [slides](https://chenhaot.com/courses/csci4622/slides/lec6.pdf) | |
 | | 9.12 |  | Hands on decision KNN and perceptron | [notebook](https://github.com/BoulderDS/CSCI-4622-Machine-Learning-18fa/tree/master/notebooks) |  |
 | | 9.14 | Chapter 5 | Feature Engineering |  [slides](https://chenhaot.com/courses/csci4622/slides/lec7.pdf) | HW1 due |
-| 4 | 9.17 | Chapter 7 & Chapter 9 | Logistic regression| | |
+| 4 | 9.17 | Chapter 9 & Chapter 7 | Logistic regression| | |
 | | 9.19 | Chapter 7 | Stochastic gradient part 1 | |
 | | 9.21 | Chapter 7  | Stochastic gradient part 2  | | |
 | 5 | 9.24 | Chapter 5 | Validation  | | |
