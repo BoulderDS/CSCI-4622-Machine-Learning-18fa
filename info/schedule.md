@@ -18,9 +18,9 @@
 | 3 | 9.10 | Chapter 4 | Perceptron  | [slides](https://chenhaot.com/courses/csci4622/slides/lec6.pdf) | |
 | | 9.12 |  | Hands on decision KNN and perceptron | [notebook](https://github.com/BoulderDS/CSCI-4622-Machine-Learning-18fa/tree/master/notebooks) |  |
 | | 9.14 | Chapter 5 | Feature Engineering |  [slides](https://chenhaot.com/courses/csci4622/slides/lec7.pdf) | HW1 due |
-| 4 | 9.17 | Chapter 7 | Logistic regression| | |
-| | 9.19 |  | Stochastic gradient part 1 | |
-| | 9.21 |   | Stochastic gradient part 2  | | |
+| 4 | 9.17 | Chapter 7 & Chapter 9 | Logistic regression| | |
+| | 9.19 | Chapter 7 | Stochastic gradient part 1 | |
+| | 9.21 | Chapter 7  | Stochastic gradient part 2  | | |
 | 5 | 9.24 | Chapter 5 | Validation  | | |
 | | 9.26 |Chapter 5 | Evaluation metrics  | | |
 | | 9.28 |Chapter 6 |Multiclass classification| | HW2 due |
@@ -31,7 +31,7 @@
 | | 10.10 | | Back Propagation Part 1 | | |
 | | 10.12 | | Back Propagation Part 2 | | Final project team formation due|
 | 8 | 10.15 | | Hands on Neural nets	 | | |
-| | 10.17 |  | Hard-Margin SVM | | |
+| | 10.17 | Chapter 7  | Hard-Margin SVM | | |
 | | 10.19 | | Soft-Margin SVM Part 1 | | HW3  due |
 | 9 | 10.22 | | Soft-Margin SVM Part 2 | | |
 | | 10.24 | Chapter 11 | Kernel trick | | |
