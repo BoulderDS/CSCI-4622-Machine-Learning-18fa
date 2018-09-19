@@ -19,12 +19,12 @@
 | | 9.12 |  | Hands on decision KNN and perceptron | [notebook](https://github.com/BoulderDS/CSCI-4622-Machine-Learning-18fa/tree/master/notebooks) |  |
 | | 9.14 | Chapter 5 | Feature Engineering |  [slides](https://chenhaot.com/courses/csci4622/slides/lec7.pdf) | HW1 due |
 | 4 | 9.17 | Chapter 9 & Chapter 7 | Logistic regression| [slides](https://chenhaot.com/courses/csci4622/slides/lec8.pdf) | |
-| | 9.19 | Chapter 7 | Stochastic gradient part 1 | |
+| | 9.19 | Chapter 7 | Stochastic gradient part 1 | [slides](https://chenhaot.com/courses/csci4622/slides/lec9.pdf) |
 | | 9.21 | Chapter 7  | Stochastic gradient part 2  | | |
 | 5 | 9.24 | Chapter 5 | Validation  | | |
 | | 9.26 |Chapter 5 | Evaluation metrics  | | |
 | | 9.28 |Chapter 6 |Multiclass classification| | HW2 due |
-| 6 | 10.1 | |   Hands on validation and SGD | | |
+| 6 | 10.1 | |   Hands on validation and evaluation metrics | | |
 | | 10.3 | Chapter 10 | Neural Nets and MLP | | |
 | | 10.5 | | Feedforward NNs	 | |  |
 | 7 | 10.8 | | Prelim 1 (week 1, 2, 3, 4) | | |
