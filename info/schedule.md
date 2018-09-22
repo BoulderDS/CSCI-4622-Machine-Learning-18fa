@@ -20,7 +20,7 @@
 | | 9.14 | Chapter 5 | Feature Engineering |  [slides](https://chenhaot.com/courses/csci4622/slides/lec7.pdf) | HW1 due |
 | 4 | 9.17 | Chapter 9 & Chapter 7 | Logistic regression| [slides](https://chenhaot.com/courses/csci4622/slides/lec8.pdf) | |
 | | 9.19 | Chapter 7 | Stochastic gradient part 1 | [slides](https://chenhaot.com/courses/csci4622/slides/lec9.pdf) |
-| | 9.21 | Chapter 14  | Stochastic gradient part 2  | [notebook](https://github.com/BoulderDS/CSCI-4622-Machine-Learning-18fa/tree/master/notebooks) | |
+| | 9.21 | Chapter 14  | Stochastic gradient part 2  | [slides](https://chenhaot.com/courses/csci4622/slides/lec10.pdf), [notebook](https://github.com/BoulderDS/CSCI-4622-Machine-Learning-18fa/tree/master/notebooks) | |
 | 5 | 9.24 | Chapter 5 | Validation  | | |
 | | 9.26 |Chapter 5 | Evaluation metrics  | | |
 | | 9.28 |Chapter 6 |Multiclass classification| | HW2 due |
