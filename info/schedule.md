@@ -24,8 +24,8 @@
 | 5 | 9.24 | Chapter 5 | Validation  |[slides](https://chenhaot.com/courses/csci4622/slides/lec11.pdf) | |
 | | 9.26 |Chapter 5 | Evaluation metrics  | [slides](https://chenhaot.com/courses/csci4622/slides/lec12.pdf) | |
 | | 9.28 |Chapter 6 |Multiclass classification| [slides](https://chenhaot.com/courses/csci4622/slides/lec13.pdf) | HW2 due |
-| 6 | 10.1 | |   Hands on validation and evaluation metrics | | |
-| | 10.3 | Chapter 10 | Neural Nets and MLP | | |
+| 6 | 10.1 | |   Hands on validation and evaluation metrics | [notebook](https://github.com/BoulderDS/CSCI-4622-Machine-Learning-18fa/tree/master/notebooks)  | |
+| | 10.3 | Chapter 10 | Neural Nets and MLP | [slides](https://chenhaot.com/courses/csci4622/slides/lec14.pdf) | |
 | | 10.5 | | Feedforward NNs	 | |  |
 | 7 | 10.8 | | Prelim 1 (week 1, 2, 3, 4) | | |
 | | 10.10 | | Back Propagation Part 1 | | |
@@ -54,6 +54,6 @@
 | 15 | 12.3 | Chapter 12 | Learning theory I | | |
 | | 12.5 | | Learning theory II| | |
 | | 12.7 | | Prelim 3 (Week 9, 10, 11, 12) | | |
-| 16 | 12.10 | Chapter 17 | Structured prediction | | |
-| | 12.12 | Chapter 8 | Ethics and Machine Learning | | |
+| 16 | 12.10 | Chapter 8 | Ethics and Machine Learning | | |
+| | 12.12 |  | Final project presentation | | |
 | | 12.14 | | No class (Reading day) | | Final project report due|
