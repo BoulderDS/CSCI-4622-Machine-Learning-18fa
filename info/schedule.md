@@ -26,10 +26,10 @@
 | | 9.28 |Chapter 6 |Multiclass classification| [slides](https://chenhaot.com/courses/csci4622/slides/lec13.pdf) | HW2 due |
 | 6 | 10.1 | |   Hands on validation and evaluation metrics | [notebook](https://github.com/BoulderDS/CSCI-4622-Machine-Learning-18fa/tree/master/notebooks)  | |
 | | 10.3 | Chapter 10 | Neural Nets and MLP | [slides](https://chenhaot.com/courses/csci4622/slides/lec14.pdf) | |
-| | 10.5 | | Feedforward NNs	 | |  |
+| | 10.5 | Chapter 10 | Neural network architecture	 | [slides](https://chenhaot.com/courses/csci4622/slides/lec15.pdf) |  |
 | 7 | 10.8 | | Prelim 1 (week 1, 2, 3, 4) | | |
-| | 10.10 | | Back Propagation Part 1 | | |
-| | 10.12 | | Back Propagation Part 2 | | Final project team formation due|
+| | 10.10 | Chapter 10 | Back Propagation Part 1 | | |
+| | 10.12 | Chapter 10 | Back Propagation Part 2 | | Final project team formation due|
 | 8 | 10.15 | | Hands on Neural nets	 | | |
 | | 10.17 | Chapter 7  | Hard-Margin SVM | | |
 | | 10.19 | | Soft-Margin SVM Part 1 | | HW3  due |
