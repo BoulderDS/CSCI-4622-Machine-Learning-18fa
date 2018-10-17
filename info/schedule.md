@@ -30,7 +30,7 @@
 | 7 | 10.8 | | Prelim 1 (week 1, 2, 3, 4) | | |
 | | 10.10 | Chapter 10 | Back Propagation Part 1 | [slides](https://chenhaot.com/courses/csci4622/slides/lec16.pdf) | |
 | | 10.12 | Chapter 10 | Back Propagation Part 2 | [slides](https://chenhaot.com/courses/csci4622/slides/lec16.pdf)  | Final project team formation due|
-| 8 | 10.15 | | Hands on Neural nets	 | | |
+| 8 | 10.15 | | Hands on Neural nets	 | [notebook](https://github.com/BoulderDS/CSCI-4622-Machine-Learning-18fa/tree/master/notebooks) | |
 | | 10.17 | Chapter 7  | Hard-Margin SVM | | |
 | | 10.19 | | Soft-Margin SVM Part 1 | | HW3  due |
 | 9 | 10.22 | | Soft-Margin SVM Part 2 | | |
