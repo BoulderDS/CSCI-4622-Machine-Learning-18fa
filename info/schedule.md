@@ -31,7 +31,7 @@
 | | 10.10 | Chapter 10 | Back Propagation Part 1 | [slides](https://chenhaot.com/courses/csci4622/slides/lec16.pdf) | |
 | | 10.12 | Chapter 10 | Back Propagation Part 2 | [slides](https://chenhaot.com/courses/csci4622/slides/lec16.pdf)  | Final project team formation due|
 | 8 | 10.15 | | Hands on Neural nets	 | [notebook](https://github.com/BoulderDS/CSCI-4622-Machine-Learning-18fa/tree/master/notebooks) | |
-| | 10.17 | Chapter 7  | Hard-Margin SVM | | |
+| | 10.17 | Chapter 7  | Hard-Margin SVM | [slides](https://chenhaot.com/courses/csci4622/slides/lec17.pdf) | |
 | | 10.19 | | Soft-Margin SVM Part 1 | | HW3  due |
 | 9 | 10.22 | | Soft-Margin SVM Part 2 | | |
 | | 10.24 | Chapter 11 | Kernel trick | | |
