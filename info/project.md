@@ -74,7 +74,7 @@ Please do not go over 2500 words unless you have a really good reason.
 Images are a much better use of space than words, usually (there's no
 limit on including images, but use judgement and be selective).
 
-We are encouraged to use the NIPS format. You can download the LaTex template [here](https://nips.cc/Conferences/2017/PaperInformation/StyleFiles). We strongly recommend using LaTex, but you can use this [Microsoft word template](http://web.archive.org/web/20130424174118/http://media.nips.cc/Conferences/2013/Styles/nips2013.docx) from 2013.
+We encourage you to use the NIPS format. You can download the LaTex template [here](https://nips.cc/Conferences/2017/PaperInformation/StyleFiles). We strongly recommend using LaTex, but you can use this [Microsoft word template](http://web.archive.org/web/20130424174118/http://media.nips.cc/Conferences/2013/Styles/nips2013.docx) from 2013.
 **All submissions must be in PDF format.**
 
 The final report will be evaluated based on the following aspects:
