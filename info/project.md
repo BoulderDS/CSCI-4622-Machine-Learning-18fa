@@ -103,9 +103,9 @@ Tips to get your report better:
 * Explain the motivation for your approaches.  For example, features shouldn't come out of nowhere; you should have a clear domain-specific story for how you derived the features or an error analysis motivations for the features you create.
 
 
-## Grade
+## Grading
 
-The grade will be as follows:
+The grading will use the following split:
 
 * Proposal: 4 points,
 * Hackathon week participation: 4 points,
