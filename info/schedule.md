@@ -36,8 +36,8 @@
 | 9 | 10.22 | [Additional reading](https://cs.stanford.edu/people/davidknowles/lagrangian_duality.pdf) | Soft-Margin SVM Part 2 | [slides](https://chenhaot.com/courses/csci4622/slides/lec18.pdf) | |
 | | 10.24 | Chapter 11 | Kernel trick | [slides](https://chenhaot.com/courses/csci4622/slides/lec19.pdf) | |
 | | 10.26 |  | Hands on SVM | [notebook](https://github.com/BoulderDS/CSCI-4622-Machine-Learning-18fa/tree/master/notebooks) | Final project proposal due |
-| 10 | 10.29 | Chapter 12 | Bagging and Random Forests   | | |
-| | 10.31 | | Boosted Decision Trees	| | |
+| 10 | 10.29 | Chapter 12 | Bagging and Random Forests   |  [slides](https://chenhaot.com/courses/csci4622/slides/lec20.pdf) | |
+| | 10.31 | | Boosted Decision Trees	| [slides](https://chenhaot.com/courses/csci4622/slides/lec21.pdf) | |
 | | 11.2 | | Hands-On AdaBoost | | HW4 due |
 | 11 | 11.5 | Chapter 15| Unsupervised learning | | |
 | | 11.7 |  |  Dimensionality reduction, PCA/SVD  | | |
