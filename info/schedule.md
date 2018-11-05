@@ -38,8 +38,8 @@
 | | 10.26 |  | Hands on SVM | [notebook](https://github.com/BoulderDS/CSCI-4622-Machine-Learning-18fa/tree/master/notebooks) | Final project proposal due |
 | 10 | 10.29 | Chapter 12 | Bagging and Random Forests   |  [slides](https://chenhaot.com/courses/csci4622/slides/lec20.pdf) | |
 | | 10.31 | | Boosted Decision Trees	| [slides](https://chenhaot.com/courses/csci4622/slides/lec21.pdf) | |
-| | 11.2 | | Hands-On AdaBoost | | HW4 due |
-| 11 | 11.5 | Chapter 15| Unsupervised learning | | |
+| | 11.2 | | Hands-On AdaBoost | [notebook](https://github.com/BoulderDS/CSCI-4622-Machine-Learning-18fa/tree/master/notebooks) | HW4 due |
+| 11 | 11.5 | Chapter 15| Unsupervised learning (canceled) | | |
 | | 11.7 |  |  Dimensionality reduction, PCA/SVD  | | |
 | | 11.9 | | Prelim 2 (Week 5, 6, 7, 8)  | |  |
 | 12 | 11.12 | |  Clustering | | |
