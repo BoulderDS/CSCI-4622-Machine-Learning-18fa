@@ -40,7 +40,7 @@
 | | 10.31 | | Boosted Decision Trees	| [slides](https://chenhaot.com/courses/csci4622/slides/lec21.pdf) | |
 | | 11.2 | | Hands-On AdaBoost | [notebook](https://github.com/BoulderDS/CSCI-4622-Machine-Learning-18fa/tree/master/notebooks) | HW4 due |
 | 11 | 11.5 | Chapter 15| Unsupervised learning (canceled) | | |
-| | 11.7 |  |  Dimensionality reduction, PCA/SVD  | | |
+| | 11.7 |  |  Dimensionality reduction, PCA/SVD  |  [slides](https://chenhaot.com/courses/csci4622/slides/lec22.pdf)  | |
 | | 11.9 | | Prelim 2 (Week 5, 6, 7, 8)  | |  |
 | 12 | 11.12 | |  Clustering | | |
 | | 11.14 | Chapter 16 | Expectation-minimization algorithms | | |
