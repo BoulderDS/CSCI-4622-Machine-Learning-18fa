@@ -43,7 +43,7 @@
 | | 11.7 |  |  Dimensionality reduction, PCA/SVD  |  [slides](https://chenhaot.com/courses/csci4622/slides/lec22.pdf)  | |
 | | 11.9 | | Prelim 2 (Week 5, 6, 7, 8)  | |  |
 | 12 | 11.12 | |  Clustering | [slides](https://chenhaot.com/courses/csci4622/slides/lec23.pdf) | |
-| | 11.14 | Chapter 16 | Expectation-minimization algorithms | | |
+| | 11.14 | Chapter 16 | Expectation-minimization algorithms | [slides](https://chenhaot.com/courses/csci4622/slides/lec24.pdf)  | |
 | | 11.16 | | Topic models | | HW5 due |
 | 13 | 11.19 | | Fall break | | |
 | | 11.21 | | Fall break | | |
