@@ -89,6 +89,8 @@ The final report will be evaluated based on the following aspects:
 
 Tips to get your report better:
 
+* Provide a baseline that puts what you did in context.
+
 * Provide an error analysis.  An error analysis must contain examples from the
   development set that you get wrong.  You should show those examples
   and explain why (in terms of features or the model) they have the
