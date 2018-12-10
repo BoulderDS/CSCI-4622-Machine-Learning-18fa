@@ -51,8 +51,8 @@
 | 14 | 11.26 | | Hackthon week  | | |
 | | 11.28 | | Hackthon week | | |
 | | 11.30 | | Hackthon week | | |
-| 15 | 12.3 | Chapter 12 | Learning theory I | | |
-| | 12.5 | | Learning theory II| | |
+| 15 | 12.3 | Chapter 12 | Learning theory I | [slides](https://chenhaot.com/courses/csci4622/slides/lec26.pdf) | |
+| | 12.5 | | Learning theory II & Review| [slides](https://chenhaot.com/courses/csci4622/slides/lec26.pdf) | |
 | | 12.7 | | Prelim 3 (Week 9, 10, 11, 12) | | |
 | 16 | 12.10 | Chapter 8 | Ethics and Machine Learning | | |
 | | 12.12 |  | Final project presentation | | |
