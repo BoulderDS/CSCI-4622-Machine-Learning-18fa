@@ -54,6 +54,6 @@
 | 15 | 12.3 | Chapter 12 | Learning theory I | [slides](https://chenhaot.com/courses/csci4622/slides/lec26.pdf) | |
 | | 12.5 | | Learning theory II & Review| [slides](https://chenhaot.com/courses/csci4622/slides/lec26.pdf) | |
 | | 12.7 | | Prelim 3 (Week 9, 10, 11, 12) | | |
-| 16 | 12.10 | Chapter 8 | Ethics and Machine Learning | | |
+| 16 | 12.10 | Chapter 8 | Ethics and Machine Learning | [slides](https://chenhaot.com/courses/csci4622/slides/lec27.pdf) | |
 | | 12.12 |  | Final project presentation | | |
 | | 12.14 | | No class (Reading day) | | Final project report due|
